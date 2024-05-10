@@ -65,7 +65,7 @@ def game():
             if restart == "y":
                 start()
                 break
-            print("\nFuck you. Goodbye!")
+            print("\nBad choice. Goodbye!")
             break
         print("\nLetters Tried:")
         for letter in "QWERTYUIOPASDFGHJKLZXCVBNM":
